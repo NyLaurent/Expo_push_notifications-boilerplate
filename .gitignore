@@ -44,3 +44,4 @@ app-example
 /
 # Firebase
 google-services.json
+config.bat
